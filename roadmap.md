@@ -1,0 +1,5 @@
+- [ ] Establish Armor design system, shared shell, reusable controls, and mock models
+- [ ] Build dashboard, directories, activity, settings, and notifications
+- [ ] Build conversation, transcript, analysis, deal review, and agreement flow
+- [ ] Build counterparty confirmation and active deal tracking
+- [ ] Verify desktop and mobile journeys
