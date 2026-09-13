@@ -2,4 +2,4 @@
 - [x] Build dashboard, directories, activity, settings, and notifications
 - [x] Build conversation, transcript, analysis, deal review, and agreement flow
 - [x] Build counterparty confirmation and active deal tracking
-- [ ] Verify desktop and mobile journeys
+- [x] Verify desktop and mobile journeys
